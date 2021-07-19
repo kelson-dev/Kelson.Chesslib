@@ -1,0 +1,2 @@
+﻿readonly struct Unit { }
+

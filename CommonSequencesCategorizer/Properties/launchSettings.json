@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CommonSequencesCategorizer": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\kelso\\Desktop\\online.pgn\""
+    }
+  }
+}

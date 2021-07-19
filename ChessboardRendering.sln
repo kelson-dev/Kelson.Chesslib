@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31512.422
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChessboardRendering", "ChessboardRendering\ChessboardRendering.csproj", "{E761B324-6971-426F-BBAA-9B50E6EB3DEC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kelson.Chesslib", "Kelson.Chesslib\Kelson.Chesslib.csproj", "{8749D434-EFA4-49E2-8A84-9CC4A036DE28}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kelson.Chesslib.Tests", "Kelson.Chesslib.Tests\Kelson.Chesslib.Tests.csproj", "{5B616F4C-92AC-4E41-B819-48A9E4AB2AF3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "clichs", "clichs\clichs.csproj", "{92EA9AF2-DC94-4DDF-BE79-AAAE48327E54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonSequencesCategorizer", "CommonSequencesCategorizer\CommonSequencesCategorizer.csproj", "{333EABDF-3408-46AC-A82E-459CE71827AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DDC9EC1E-722C-4A50-8AD6-0834494442FB}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E761B324-6971-426F-BBAA-9B50E6EB3DEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E761B324-6971-426F-BBAA-9B50E6EB3DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E761B324-6971-426F-BBAA-9B50E6EB3DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E761B324-6971-426F-BBAA-9B50E6EB3DEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8749D434-EFA4-49E2-8A84-9CC4A036DE28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8749D434-EFA4-49E2-8A84-9CC4A036DE28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8749D434-EFA4-49E2-8A84-9CC4A036DE28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8749D434-EFA4-49E2-8A84-9CC4A036DE28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B616F4C-92AC-4E41-B819-48A9E4AB2AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B616F4C-92AC-4E41-B819-48A9E4AB2AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B616F4C-92AC-4E41-B819-48A9E4AB2AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B616F4C-92AC-4E41-B819-48A9E4AB2AF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92EA9AF2-DC94-4DDF-BE79-AAAE48327E54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92EA9AF2-DC94-4DDF-BE79-AAAE48327E54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92EA9AF2-DC94-4DDF-BE79-AAAE48327E54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92EA9AF2-DC94-4DDF-BE79-AAAE48327E54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{333EABDF-3408-46AC-A82E-459CE71827AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{333EABDF-3408-46AC-A82E-459CE71827AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{333EABDF-3408-46AC-A82E-459CE71827AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{333EABDF-3408-46AC-A82E-459CE71827AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA35933C-86A4-4331-B27C-6A3B232498E0}
+	EndGlobalSection
+EndGlobal
